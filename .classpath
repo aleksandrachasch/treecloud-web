@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/xmlgraphics-commons-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/js.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/fop-transcoder-allinone-2.2.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-xml-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-util-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-ttf2svg-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-transcoder-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-swing-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-svgpp-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-svggen-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-svg-dom-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-squiggle-ext-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-squiggle-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-slideshow-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-script-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-rasterizer-ext-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-rasterizer-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-parser-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-gvt-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-gui-util-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-extension-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-ext-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-dom-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-css-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-bridge-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-awt-util-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-anim-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-all-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Документы/treecloud/lib/batik-1.9.jar"/>
+	<classpathentry kind="lib" path="/home/aleksandra/Загрузки/lib-gwt-svg-0.5.13.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
